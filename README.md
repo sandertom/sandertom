@@ -8,7 +8,7 @@ Curently working on Privacy Preserving Machine Learning.
     Twitter
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/tomsander/" target="blank">
+  <a href="https://www.linkedin.com/in/tomsdr/" target="blank">
     Linkedin
   </a>
   &nbsp;
