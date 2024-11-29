@@ -12,7 +12,7 @@ Curently working on Privacy Preserving Machine Learning.
     Linkedin
   </a>
   &nbsp;
-  <a href="[https://scholar.google.com/citations?user=osCX1YQAAAAJ](https://scholar.google.com/citations?user=xrewx-sAAAAJ&hl)" target="blank">
+  <a href="https://scholar.google.com/citations?user=xrewx-sAAAAJ&hl" target="blank">
     Scholar
   </a>
 </p>
